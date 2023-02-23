@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\bin\Debug\net6.0\UserRgstr-Using-LambdaExprsn.exe
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\bin\Debug\net6.0\UserRgstr-Using-LambdaExprsn.deps.json
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\bin\Debug\net6.0\UserRgstr-Using-LambdaExprsn.runtimeconfig.json
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\bin\Debug\net6.0\UserRgstr-Using-LambdaExprsn.dll
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\bin\Debug\net6.0\UserRgstr-Using-LambdaExprsn.pdb
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.AssemblyInfo.cs
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.dll
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\refint\UserRgstr-Using-LambdaExprsn.dll
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.pdb
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\UserRgstr-Using-LambdaExprsn.genruntimeconfig.cache
+C:\Users\USER\source\repos\UserRgstr-Using-LambdaExprsn\UserRgstr-Using-LambdaExprsn\obj\Debug\net6.0\ref\UserRgstr-Using-LambdaExprsn.dll
